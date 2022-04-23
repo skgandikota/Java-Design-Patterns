@@ -4,3 +4,6 @@
 [submodule "structural-design-pattern"]
 	path = structural-design-pattern
 	url = https://github.com/skgandikota/Structural-Design-Pattern.git
+[submodule "behavioral-design-pattern"]
+	path = behavioral-design-pattern
+	url = https://github.com/skgandikota/Behavioral-Design-Patterns.git
