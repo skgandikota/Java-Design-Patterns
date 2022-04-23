@@ -4,11 +4,11 @@ A design patterns are well-proved Industry Standand Robust solution for solving 
 
 ### Problem Given:
 
-`Suppose you have some database which accept only one thread for CRUD Operations which means you want to create a program for which only a database connection single instance (or object) should be created and that single object can be used by all other classes.`
+```Suppose you have some database which accept only one thread for CRUD Operations which means you want to create a program for which only a database connection single instance (or object) should be created and that single object can be used by all other classes.```
 
 ### Solution:
 
-`Singleton design pattern is the best solution of above specific problem.`
+```Singleton design pattern is the best solution of above specific problem.```
 
  Cool Right ! So, every design pattern has some specification or set of rules for solving the problems.
 
