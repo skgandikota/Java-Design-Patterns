@@ -1,3 +1,6 @@
 [submodule "creational-design-pattern"]
 	path = creational-design-pattern
 	url = https://github.com/skgandikota/Creational-Design-Patterns.git
+[submodule "structural-design-pattern"]
+	path = structural-design-pattern
+	url = https://github.com/skgandikota/Structural-Design-Pattern.git
