@@ -12,23 +12,23 @@ A design patterns are well-proved Industry Standand Robust solution for solving 
 
  Cool Right ! So, every design pattern has some specification or set of rules for solving the problems.
 
-
-## INDEX:
 ----
+### content 
 
-1. [Creational Design Pattern ](/01-Creational-Design-Patterns/)
 
-    * [Singleton Design Pattern ](/01-Creational-Design-Patterns/01-Singleton-Pattern/)
+1. [Creational Design Pattern ](/Java-Design-Patterns/01-Creational-Design-Patterns/)
 
-    * [Factory Design Pattern / Factory Method Design Pattern ](/01-Creational-Design-Patterns/02-Factory-Pattern/)
+    * [Singleton Design Pattern ](/Java-Design-Patterns/01-Creational-Design-Patterns/01-Singleton-Pattern/)
 
-    * [Abstract Factory Design Pattern](/01-Creational-Design-Patterns/03-Abstract-Factory-Pattern/)
+    * [Factory Design Pattern / Factory Method Design Pattern ](/Java-Design-Patterns/01-Creational-Design-Patterns/02-Factory-Pattern/)
 
-    * [Builder Pattern](/01-Creational-Design-Patterns/04-Builder-Pattern/)
+    * [Abstract Factory Design Pattern](/Java-Design-Patterns/01-Creational-Design-Patterns/03-Abstract-Factory-Pattern/)
 
-    * [Prototype Pattern](/01-Creational-Design-Patterns/05-Prototype-Pattern/)
+    * [Builder Pattern](/Java-Design-Patterns/01-Creational-Design-Patterns/04-Builder-Pattern/)
 
-2. [Structural Design Pattern](/02-Structural-Design-Patterns/)
+    * [Prototype Pattern](/Java-Design-Patterns/01-Creational-Design-Patterns/05-Prototype-Pattern/)
+
+2. [Structural Design Pattern](/Java-Design-Patterns/02-Structural-Design-Patterns/)
 
 ----
 
