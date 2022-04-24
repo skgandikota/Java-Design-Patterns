@@ -31,8 +31,9 @@ A design patterns are well-proved Industry Standand Robust solution for solving 
 
 ----
 
+<a name="singleton"/>
 
-# Singleton Design Pattern <a name="singleton"/>
+# Singleton Design Pattern 
 
 Singleton pattern *`restricts the instantiation of a class and ensures that only one instance of the class exists`* in the Java virtual machine. 
 
